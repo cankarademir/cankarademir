@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Can</h1>
 <h3 align="center">Kotlin Mobile Developer - Computer Engineer</h3>
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I am currently improving my **Kotlin** skills
 
 - 📫 How to reach me **cankarademir.yazilim@gmail.com**
 
